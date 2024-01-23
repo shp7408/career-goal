@@ -1,5 +1,7 @@
 # career-goal
 
+개발자 박서현의 career-goal 이 궁금하다면? [클릭] https://github.com/shp7408/career-goal/blob/shp7408/Career-shp7408.md
+
 # 요구사항
 - [ ] KYS(Known Your Self)를 작성한다.
     - [ ] Key Strength 를 작성한다.
